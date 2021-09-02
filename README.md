@@ -10,10 +10,10 @@ Fr, 18.10 -- 21.00, online
 * Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
 
 ### Grade calculator
-* 40% -- final project (exam, **a blocking element** of the grade)
-* 20% -- homework assignment 1 (late submission: within a week of the original deadline with a 30% of the grade penalty)
-* 30% -- homework assignment 2 (late submission: within a week of the original deadline with a 30% of the grade penalty)
-* 10% -- in-class presentation (a short oral presentation on an NLP topic of your choosing, no late submission)
+* **40% -- final project** (exam, **a blocking element** of the grade)
+* **20% -- homework assignment 1** (late submission: within a week of the original deadline with a 30% of the grade penalty)
+* **30% -- homework assignment 2** (late submission: within a week of the original deadline with a 30% of the grade penalty)
+* **10% -- in-class presentation** (a short oral presentation on an NLP topic of your choosing, no late submission)
 
 Final grade is rounded in favor of the student. 
 
