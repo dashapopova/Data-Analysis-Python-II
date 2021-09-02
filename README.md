@@ -37,7 +37,8 @@ Final grade is rounded in favor of the student.
   </tr>
   <tr>
     <td>10.09.</td>
-    <td><a href="./PP_Word2Vec.ipynb">Word2vec</a>
+    <td>Word2vec<br>
+      TF-IDF
     </td>
     <td></td>
     <td></td>
@@ -46,18 +47,16 @@ Final grade is rounded in favor of the student.
   </tr>
     <td>17.09.</td>
     <td>Your presentations<br>
-       <a href="./PP_Graphs(1).ipynb">Graphs</a><br>
-      <a href="./PP_Graphs_DH.ipynb">Graphs in DH</a><br>
-  <a href="./pin.txt">Graphs in DH_ex_text</a></td>
-    <td><a href="./PP_HW1.md">HW1</td>
-    <td>07.10 22:00</td>
+       Graphs<br>
+      Syntactic parsing</td>
+    <td></td>
+    <td></td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
     <tr>
     <td>24.09.</td>
-    <td><a href="./PPVisualization(1).ipynb">Visualization 1</a><br>
-      <a href="./PB_pandas(1).ipynb">Pandas</a><br>
-      <a href="./visualization(2).ipynb">Visualization 2</a></td>
+    <td>Pandas<br>
+      Visualization</td>
     <td></td>
     <td></td>
     <td>
@@ -74,16 +73,17 @@ Final grade is rounded in favor of the student.
     <tr>
     <td>08.10</td>
     <td>
-     <a href="./DataBases(1).ipynb">Databases 2</a><br>
-     <a href="./PP_Crawlers(1).ipynb">Crowlers</a> 
+     Databases 2 <br>
+     Crowlers
   </td>
-    <td><a href="./PP_HW2.md">HW2</a></td>
-  <td>28.10 22:00</td>
+    <td></td>
+  <td></td>
     <td></td>
   </tr>
     <tr>
     <td>15.10</td>
-    <td><a href="./json_1.ipynb">JSON</a>, <a href="./PP_VK_API.ipynb">VK API</a>, <a href="./PP_VK_API_Example.ipynb">VK API example</a><br>
+    <td>JSON<br>
+      VK API <br>
       Your presentations
   </td>
     <td></td>
@@ -94,10 +94,10 @@ Final grade is rounded in favor of the student.
     <tr>
     <td>29.10(???)</td>
     <td>Your presentations</td>
-    <td><a href="./FPG.md">Final project guidelines</a></td>
-    <td><b>Final Project is due 24.11 at noon</b>:triumph:</td>
+    <td>Final project guidelines</td>
+    <td><b>Final Project is due 29.10 at noon</b>:triumph:</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
 </table>
 
-![](./python.jpg)
+
