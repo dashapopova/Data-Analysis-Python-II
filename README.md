@@ -95,7 +95,7 @@ Final grade is rounded in favor of the student.
     <td>29.10(???)</td>
     <td>Your presentations</td>
     <td>Final project guidelines</td>
-    <td><b>Final Project is due 29.10 at noon</b>:triumph:</td>
+    <td><b>Final Project is due 29.10</b>:triumph:</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
 </table>
