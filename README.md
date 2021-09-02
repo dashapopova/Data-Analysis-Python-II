@@ -50,7 +50,7 @@ Final grade is rounded in favor of the student.
        Graphs<br>
       Syntactic parsing</td>
     <td>HW1</td>
-    <td></td>
+    <td>due 24.09</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
     <tr>
@@ -77,7 +77,7 @@ Final grade is rounded in favor of the student.
      Crowlers
   </td>
     <td>HW2</td>
-  <td></td>
+  <td>due 15.10</td>
     <td></td>
   </tr>
     <tr>
