@@ -28,7 +28,7 @@ Final grade is rounded in favor of the student.
   </tr>
    <tr>
     <td>03.09.</td>
-    <td><a href="./PPSem1.ipynb">Pymystem, pymorphy</a><br>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Pymystem, pymorphy</a><br>
     <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem2.ipynb">Parsing Internet data</a></td>
     <td></td>
     <td></td>
