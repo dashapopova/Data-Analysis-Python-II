@@ -40,8 +40,8 @@ Final grade is rounded in favor of the student.
     <td>Word2vec<br>
       TF-IDF
     </td>
-    <td></td>
-    <td></td>
+    <td>HW1</td>
+    <td>due 24.09</td>
     <td>
     </td>
   </tr>
@@ -49,16 +49,16 @@ Final grade is rounded in favor of the student.
     <td>Your presentations<br>
        Graphs<br>
       Syntactic parsing</td>
-    <td>HW1</td>
-    <td>due 24.09</td>
+    <td></td>
+    <td></td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
     <tr>
     <td>24.09.</td>
     <td>Pandas<br>
       Visualization</td>
-    <td></td>
-    <td></td>
+    <td>HW2</td>
+    <td>due 15.10</td>
     <td>
   </td>
   </tr>
@@ -76,8 +76,8 @@ Final grade is rounded in favor of the student.
      Databases 2 <br>
      Crowlers
   </td>
-    <td>HW2</td>
-  <td>due 15.10</td>
+    <td></td>
+  <td></td>
     <td></td>
   </tr>
     <tr>
