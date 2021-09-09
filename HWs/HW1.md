@@ -8,4 +8,4 @@
 
 If you want to get a 9, do all of the above plus provide an additional visualization that uses a different method of dimension reduction (not PCA), comment on the differences between using PCA on your dataset and the other method of dimension reduction.
 
-If you want to get a 10, do all of the above plus provide a BERT or a ELMO model for your data, comment on the differences in the results between the word2vec and the BERT/ELMO models.
+If you want to get a 10, do all of the above plus provide a BERT or an ELMO model for your data, comment on the differences in the results between the word2vec and the BERT/ELMO models.
