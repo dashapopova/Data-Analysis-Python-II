@@ -6,6 +6,6 @@
 4. Visualize the results of the training and testing (one plot or one graph), comment on the visualization -- 1 point
 5. Choose two sentences from the original text and substitute all the meaningful words with their closest neighbours from your word2vec model (1 point), do the agreement on the sentences with substitutions (1 point)
 
-If you want to get a 9, do all of the above plus provide additional visualization that uses a different method of dimension reduction (not PCA), comment on the differences between using PCA on your dataset and the other method of dimension reduction.
+If you want to get a 9, do all of the above plus provide an additional visualization that uses a different method of dimension reduction (not PCA), comment on the differences between using PCA on your dataset and the other method of dimension reduction.
 
 If you want to get a 10, do all of the above plus provide a BERT or a ELMO model for your data, comment on the differences in the results between the word2vec and the BERT/ELMO models.
