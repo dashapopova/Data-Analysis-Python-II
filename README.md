@@ -40,7 +40,7 @@ Final grade is rounded in favor of the student.
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/PP_word2vec.ipynb">Word2vec</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/TFIDF.ipynb">TF-IDF</a>
     </td>
-    <td>HW1</td>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/HW1.md">HW1</a></td>
     <td>due 24.09</td>
     <td>
     </td>
