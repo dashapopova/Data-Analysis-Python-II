@@ -37,7 +37,7 @@ Final grade is rounded in favor of the student.
   </tr>
   <tr>
     <td>10.09.</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Word2vec</a><br>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/PP_word2vec.ipynb">Word2vec</a><br>
       TF-IDF
     </td>
     <td>HW1</td>
