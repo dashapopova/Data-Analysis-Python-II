@@ -48,7 +48,7 @@ Final grade is rounded in favor of the student.
     <td>17.09.</td>
     <td>Your presentations<br>
        Graphs<br>
-      Syntactic parsing</td>
+      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/SpaCy(2).ipynb">Syntactic parsing</a></td>
     <td></td>
     <td></td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
