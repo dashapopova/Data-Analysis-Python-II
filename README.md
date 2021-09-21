@@ -55,8 +55,8 @@ Final grade is rounded in favor of the student.
    </tr>
     <tr>
     <td>24.09.</td>
-    <td>Pandas<br>
-      Visualization</td>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/tree/main/24.09">Pandas</a>
+     </td>
     <td>HW2</td>
     <td>due 15.10</td>
     <td>
