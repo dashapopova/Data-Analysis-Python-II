@@ -41,7 +41,7 @@ Final grade is rounded in favor of the student.
       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/TFIDF.ipynb">TF-IDF</a>
     </td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/HW1.md">HW1</a></td>
-    <td>due 24.09</td>
+    <td>due 24.09 23:59</td>
     <td>
     </td>
   </tr>
@@ -58,7 +58,7 @@ Final grade is rounded in favor of the student.
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/tree/main/24.09">Pandas</a>
      </td>
     <td>HW2</td>
-    <td>due 15.10</td>
+    <td>due 15.10 23:59</td>
     <td>
   </td>
   </tr>
@@ -95,7 +95,7 @@ Final grade is rounded in favor of the student.
     <td>29.10(???)</td>
     <td>Your presentations</td>
     <td>Final project guidelines</td>
-    <td><b>Final Project is due 29.10</b>:triumph:</td>
+    <td><b>Final Project is due 28.10 23:59</b>:triumph:</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
 </table>
