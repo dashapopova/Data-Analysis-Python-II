@@ -9,3 +9,4 @@
 | 1 | you get a point if you use syntactic parsing at any stage (at the stage of the db creation or at the stage of working with a dataframe) |
 | +1 | you get an additional point if you do all of the above plus use something that we haven't discussed in class, e.g., interactive plots (if you do decide to draw interactive plots, keep in mind that they should be displayed properly) or statistical analysis |
 | +1 | you get an additional point if you do all of the above plus your notebook reads like a short, but complete piece of research with internal logic, hypotheses, testing, results, comments and conclusions |
+||include a short description of what you want to do for your final project|
