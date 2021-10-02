@@ -1,5 +1,7 @@
 #### Assignment 2 -- due Oct 15th 23:59 -- please send a link to your hw2 folder on github.com to daschapopowa@gmail.com
 
+**The homework folder should contain a .db file (or a link to it) and a .ipynb file with the code and comments**
+
 | points        | task           | 
 | :-------------: |:-------------| 
 |  2     | create a database (you can create it from a file or files of your own, e.g., your own experimental results, fieldwork data etc.; you can create it from any publicly available data, e.g., [twitter data with sentiment](https://raw.githubusercontent.com/vineetdhanawat/twitter-sentiment-analysis/master/datasets/Sentiment%20Analysis%20Dataset%20100000.csv); you can create it from the results of parsing a novel or novels), explain the reasoning behind the architecture of your database | 
