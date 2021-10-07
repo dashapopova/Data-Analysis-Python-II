@@ -73,8 +73,7 @@ Final grade is rounded in favor of the student.
     <tr>
     <td>08.10</td>
     <td>
-     Databases 2 <br>
-     Crowlers
+     Databases 2
   </td>
     <td></td>
   <td></td>
