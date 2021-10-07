@@ -73,7 +73,7 @@ Final grade is rounded in favor of the student.
     <tr>
     <td>08.10</td>
     <td>
-     Databases 2
+     <a href="https://github.com/dashapopova/Data-Analysis-Python-II/tree/main/08.10">Databases 2</a>
   </td>
     <td></td>
   <td></td>
