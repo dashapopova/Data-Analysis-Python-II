@@ -4,7 +4,9 @@
 
 This is the exam for this class (there won't be a separate exam meeting!), it is worth 40% of the final grade
 
-Final project is a homework that you design for yourself. Ideally, your project should help you with your linguistic research outside of the course.
+**Option 1**
+
+Final project as a homework that you design for yourself. Ideally, your project should help you with your linguistic research outside of the course.
 
 Some suggestions:
 
@@ -15,6 +17,12 @@ Some suggestions:
 8 points -- your work reads as a mini-research paper with internal logic, hypotheses, comments, conclusions
 
 9, 10 points -- your work reads as a mini-research paper with internal logic, hypotheses, comments, conclusions; the project idea is ambitious and shows enthusiasm for the project
+
+**Option 2** (for a maximum of 8 points)
+
+for 6 points -- a handout on one of the topics we haven't covered in class, e.g., BERT, clustering, machine learning, regression, interactive plots
+
+for additional 2 points -- a corresponding homework
 
 
 
