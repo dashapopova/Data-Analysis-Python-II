@@ -12,6 +12,10 @@ Some suggestions:
 * a program that downloads some data from the web, preprocesses it and visualizes it (requests, beautiful soup, API, db, dataframes, morphological parsing, syntactic parsing, tfidf, visualization)
 * a program that draws graphs for a couple of different semantic fields in a couple of languages (morphological parsing, syntactic parsing, semantic vectors, clustering, visualization)
 
+8 points -- your work reads as a mini-research paper with internal logic, hypotheses, comments, conclusions
+
+9, 10 points -- your work reads as a mini-research paper with internal logic, hypotheses, comments, conclusions; the project idea is ambitious and shows enthusiasm for the project
+
 
 
 
