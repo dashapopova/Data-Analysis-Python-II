@@ -4,7 +4,7 @@
 
 This is the exam for this class (there won't be a separate exam meeting!), it is worth 40% of the final grade
 
-**Option 1**
+**Option 1** (for a maximum of 10 points)
 
 Final project as a homework that you design for yourself. Ideally, your project should help you with your linguistic research outside of the course.
 
@@ -16,7 +16,7 @@ Some suggestions:
 
 8 points -- your work reads as a mini-research paper with internal logic, hypotheses, comments, conclusions
 
-9, 10 points -- your work reads as a mini-research paper with internal logic, hypotheses, comments, conclusions; the project idea is ambitious and shows enthusiasm for the project
+9, 10 points -- your work reads as a mini-research paper with internal logic, hypotheses, comments, conclusions; the project is ambitious and shows enthusiasm for the project
 
 **Option 2** (for a maximum of 8 points)
 
