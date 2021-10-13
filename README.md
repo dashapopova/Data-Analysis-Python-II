@@ -94,7 +94,7 @@ Final grade is rounded in favor of the student.
     <td>29.10(???)</td>
     <td>Your presentations</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
-    <td><b>Final Project is due 28.10 23:59</b>:triumph:</td>
+    <td><b>Final Project is due 10.12 23:59</b>:triumph:</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
 </table>
