@@ -82,7 +82,7 @@ Final grade is rounded in favor of the student.
     <tr>
     <td>15.10</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_json.ipynb">JSON</a><br>
-      VK API <br>
+      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_VK_API.ipynb">VK API</a> <br>
       Your presentations
   </td>
     <td></td>
