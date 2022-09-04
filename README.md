@@ -81,8 +81,8 @@ Final grade is rounded in favor of the student.
   </tr>
     <tr>
     <td>15.10 (Sut, 13.00-16.00, online)</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_json.ipynb">JSON</a><br>
-      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_VK_API.ipynb">VK API</a> <br>
+    <td>JSON<br>
+      VK API<br>
       Your presentations
   </td>
     <td></td>
