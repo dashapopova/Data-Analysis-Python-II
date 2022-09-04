@@ -4,13 +4,13 @@ Programming seminars for Second Year Linguistics Master students
 
 ### Hours
 
-Fr, 18.10 -- 21.00, online
+Mon, 18.10 -- 21.00
 
 ### Instructor
 * Daria Popova (Dasha, Дарья Павловна Попова ([почта](mailto:daschapopowa@gmail.com)))
 
 ### Grade calculator
-* **40% -- final project** (exam, **a blocking element** of the grade)
+* **40% -- final project** (exam)
 * **20% -- homework assignment 1** (late submission: within a week of the original deadline with a 30% of the grade penalty)
 * **30% -- homework assignment 2** (late submission: within a week of the original deadline with a 30% of the grade penalty)
 * **10% -- in-class presentation** (a short oral presentation on an NLP topic of your choosing, no late submission)
@@ -27,16 +27,16 @@ Final grade is rounded in favor of the student.
     <th>Reference</th>
   </tr>
    <tr>
-    <td>03.09.</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Pymystem, pymorphy</a><br>
-    <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem2.ipynb">Parsing Internet data</a></td>
+    <td>05.09. (509)</td>
+    <td>Pymystem, pymorphy<br>
+    Parsing Internet data</td>
     <td></td>
     <td></td>
     <td>
     </td>
   </tr>
   <tr>
-    <td>10.09.</td>
+    <td>12.09. (509)</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/PP_word2vec.ipynb">Word2vec</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/TFIDF.ipynb">TF-IDF</a>
     </td>
@@ -45,7 +45,7 @@ Final grade is rounded in favor of the student.
     <td>
     </td>
   </tr>
-    <td>17.09.</td>
+    <td>19.09. (509)</td>
     <td>Your presentations<br>
        <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/PP_graphs.ipynb">Graphs</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/SpaCy(2).ipynb">Syntactic parsing</a></td>
@@ -54,7 +54,7 @@ Final grade is rounded in favor of the student.
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
     <tr>
-    <td>24.09.</td>
+    <td>26.09. (504)</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/tree/main/24.09">Pandas</a>
      </td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/HW2.md">HW2</a></td>
@@ -63,7 +63,7 @@ Final grade is rounded in favor of the student.
   </td>
   </tr>
     <tr>
-    <td>01.10.</td>
+    <td>03.10. (504)</td>
     <td>Databases (Not meeting! Self-study)
   </td>
     <td></td>
@@ -71,7 +71,7 @@ Final grade is rounded in favor of the student.
     <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
   </tr>
     <tr>
-    <td>08.10</td>
+    <td>10.10 (509)</td>
     <td>
      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/tree/main/08.10">Databases 2</a>
   </td>
@@ -80,7 +80,7 @@ Final grade is rounded in favor of the student.
     <td></td>
   </tr>
     <tr>
-    <td>15.10</td>
+    <td>15.10 (Sut, 13.00-16.00, online)</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_json.ipynb">JSON</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_VK_API.ipynb">VK API</a> <br>
       Your presentations
@@ -91,10 +91,10 @@ Final grade is rounded in favor of the student.
   </tr>
   </tr>
     <tr>
-    <td>29.10</td>
+    <td>17.10 (504)</td>
     <td>Your presentations</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
-    <td><b>Final Project is due 10.12 23:59</b>:triumph:</td>
+    <td>Final project guidelines</td>
+    <td><b>Final Project is due 14.12 23:59</b>:triumph:</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
   </tr>
 </table>
