@@ -28,7 +28,7 @@ Final grade is rounded in favor of the student.
   </tr>
    <tr>
     <td>05.09. (509)</td>
-    <td>Python 101</td>
+    <td><a href="https://github.com/dashapopova/Programming-Basics">Python 101</a></td>
     <td></td>
     <td></td>
     <td>
