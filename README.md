@@ -55,7 +55,7 @@ Final grade is rounded in favor of the student.
     <td>26.09. (504)</td>
     <td>Your presentations<br>
       Graphs<br>
-      Intro into ML
+      Clusterization
      </td>
     <td></td>
     <td></td>
