@@ -28,8 +28,7 @@ Final grade is rounded in favor of the student.
   </tr>
    <tr>
     <td>05.09. (509)</td>
-    <td>Pymystem, pymorphy<br>
-    Parsing Internet data</td>
+    <td>Python 101</td>
     <td></td>
     <td></td>
     <td>
@@ -37,29 +36,29 @@ Final grade is rounded in favor of the student.
   </tr>
   <tr>
     <td>12.09. (509)</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/PP_word2vec.ipynb">Word2vec</a><br>
-      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/TFIDF.ipynb">TF-IDF</a>
+    <td>Pymystem, pymorphy<br>
+     Syntactic parsing
     </td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/HW1.md">HW1</a></td>
-    <td>due 24.09 23:59</td>
+    <td></td>
+    <td></td>
     <td>
     </td>
   </tr>
     <td>19.09. (509)</td>
-    <td>Your presentations<br>
-       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/PP_graphs.ipynb">Graphs</a><br>
-      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/SpaCy(2).ipynb">Syntactic parsing</a></td>
+    <td>Word2Vec<br>
+       tf-idf</td>
+    <td>HW1</td>
+    <td>due 03.10 23:59</td>
     <td></td>
-    <td></td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a></td>
    </tr>
     <tr>
     <td>26.09. (504)</td>
-    <td>
+    <td>Graphs<br>
+      Clusterisation, classification, linear regression
      </td>
     <td></td>
     <td></td>
-    <td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a>
   </td>
   </tr>
     <tr>
