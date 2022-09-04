@@ -53,7 +53,8 @@ Final grade is rounded in favor of the student.
    </tr>
     <tr>
     <td>26.09. (504)</td>
-    <td>Graphs<br>
+    <td>Your presentations<br>
+      Graphs<br>
       Clusterisation, classification, linear regression
      </td>
     <td></td>
