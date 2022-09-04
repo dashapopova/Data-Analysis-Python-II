@@ -55,29 +55,29 @@ Final grade is rounded in favor of the student.
    </tr>
     <tr>
     <td>26.09. (504)</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/tree/main/24.09">Pandas</a>
+    <td>
      </td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/HW2.md">HW2</a></td>
-    <td>due 15.10 23:59</td>
+    <td></td>
+    <td></td>
     <td>
   </td>
   </tr>
     <tr>
     <td>03.10. (504)</td>
-    <td>Databases (Not meeting! Self-study)
+    <td>Pandas
   </td>
+    <td>HW2</td>
+    <td>due 17.10 23:59</td>
     <td></td>
-    <td></td>
-    <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
   </tr>
     <tr>
     <td>10.10 (509)</td>
     <td>
-     <a href="https://github.com/dashapopova/Data-Analysis-Python-II/tree/main/08.10">Databases 2</a>
+     Databases</a>
   </td>
     <td></td>
   <td></td>
-    <td></td>
+    <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
   </tr>
     <tr>
     <td>15.10 (Sut, 13.00-16.00, online)</td>
