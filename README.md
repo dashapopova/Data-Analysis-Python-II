@@ -37,7 +37,7 @@ Final grade is rounded in favor of the student.
   <tr>
     <td>12.09. (509)</td>
     <td>Pymystem, pymorphy<br>
-     Syntactic parsing
+     <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/SpaCy(2).ipynb">Syntactic parsing</a>
     </td>
     <td></td>
     <td></td>
