@@ -36,8 +36,10 @@ Final grade is rounded in favor of the student.
   </tr>
   <tr>
     <td>12.09. (509)</td>
-    <td>Pymystem, pymorphy<br>
-     <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/SpaCy(2).ipynb">Syntactic parsing</a>
+    <td><a href="">Classes</a><br>
+      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Pymystem, pymorphy</a><br>
+     <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/SpaCy(2).ipynb">Syntactic parsing</a><br>
+      <a href="">NER</a>
     </td>
     <td></td>
     <td></td>
