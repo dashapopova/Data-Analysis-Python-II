@@ -36,7 +36,7 @@ Final grade is rounded in favor of the student.
   </tr>
   <tr>
     <td>12.09. (509)</td>
-    <td><a href="">Classes</a><br>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PP_classes.ipynb">Classes</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem1.ipynb">Pymystem, pymorphy</a><br>
      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/SpaCy(2).ipynb">Syntactic parsing</a><br>
       <a href="">NER</a>
