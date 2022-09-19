@@ -49,7 +49,8 @@ Final grade is rounded in favor of the student.
     <td>19.09. (509)</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/PP_word2vec(1).ipynb">Word2Vec</a><br>
        <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/TFIDF.ipynb">tf-idf</a></td><br>
-       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/BERT.pdf">BERT</a></td>
+       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/10.09/BERT.pdf">BERT</a>
+  </td>
     <td></td>
     <td></td>
     <td></td>
