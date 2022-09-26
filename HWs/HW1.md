@@ -22,15 +22,15 @@
     - Print out top-20 verbs and adverbs
     - you can keep the stop words or you can get rid of them
 
-5. (1 point) Find top-25 bigrams and trigrams for your text (use nltk.bigrams, e.g.), use only lemmas, get rid of the punctuation. Comment shortly on the results.
+5. (1 point) Find top-25 bigrams and trigrams for your text (use nltk.bigrams), use only lemmas, get rid of the punctuation. Comment shortly on the results.
 
-6. (2 points) Take 3-8 sentences from the original text and substitute some morphological information, e.g., change the tense of the verbs, the number of the nouns, e.g, the original *Слон подарил мартышке цветы* should become *Слоны подарят мартышкам цветок*.
+6. (2 points) Take 3-8 sentences from the original text and substitute some morphological information, for example, change the tense of the verbs, the number of the nouns, e.g, the original *Слон подарил мартышке цветы* should become *Слоны подарят мартышкам цветок*.
 
 **Your repository should contain**
 
 1. .ipynb file with the code and comments
 2. the .txt file with the text of the book (optional)
-3. .txt file with the results of mystem lemmatazation 
+3. .txt file with the results of mystem lemmatization 
 4. .jsonl file with the results of the work of pymorphy
 
 
