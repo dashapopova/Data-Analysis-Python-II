@@ -58,8 +58,8 @@ Final grade is rounded in favor of the student.
     <tr>
     <td>26.09. (504)</td>
     <td>Your presentations<br>
-      Graphs<br>
-      Clusterization
+      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/26.09/PP_json_practice.ipynb">JSON</a>
+      
      </td>
     <td>HW1</td>
     <td>due 03.10 23:59</td>
@@ -85,7 +85,7 @@ Final grade is rounded in favor of the student.
   </tr>
     <tr>
     <td>15.10 (Sut, 13.00-16.00, online)</td>
-    <td>JSON<br>
+    <td>
       VK API<br>
       Your presentations
   </td>
