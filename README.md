@@ -58,6 +58,7 @@ Final grade is rounded in favor of the student.
     <tr>
     <td>26.09. (504)</td>
     <td>Your presentations<br>
+    <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/26.09/data_structures_1(1).ipynb">Data structures</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/26.09/PP_json_practice.ipynb">JSON</a>
     </td>
     <td>HW1</td>
