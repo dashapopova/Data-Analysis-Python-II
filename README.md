@@ -61,7 +61,7 @@ Final grade is rounded in favor of the student.
     <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/26.09/data_structures_1(1).ipynb">Data structures</a><br>
       <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/26.09/PP_json_practice.ipynb">JSON</a>
     </td>
-    <td>HW1</td>
+    <td> <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/HW1.md">HW1</a></td>
     <td>due 03.10 23:59</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1ZOXVzgwpfM5pL5uJ2uYvxnR04dCc3ssIUTdG6JQaS-E/edit?usp=sharing">Presentation sign up form</a>
   </td>
