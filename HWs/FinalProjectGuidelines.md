@@ -22,7 +22,7 @@ Some suggestions:
 
 for 6 points -- a handout on one of the topics we haven't covered in class, e.g., BERT, clustering, machine learning, regression, interactive plots
 
-for additional 2 points -- a corresponding homework
+for additional 2 points -- a corresponding homework with a solution
 
 
 
