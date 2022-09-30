@@ -68,7 +68,8 @@ Final grade is rounded in favor of the student.
   </tr>
     <tr>
     <td>03.10. (504)</td>
-    <td>Pandas
+    <td>Pandas<br>
+    <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/PP_graphs.ipynb">graphs</a>
   </td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/HW2.md">HW2</a></td>
     <td>due 17.10 23:59</td>
