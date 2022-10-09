@@ -72,7 +72,7 @@ Final grade is rounded in favor of the student.
     <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/17.09/PP_graphs.ipynb">graphs</a>
   </td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/HW2.md">HW2</a></td>
-    <td>due 17.10 23:59</td>
+    <td>due 24.10 23:59</td>
     <td></td>
   </tr>
     <tr>
