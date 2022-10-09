@@ -76,7 +76,7 @@ Final grade is rounded in favor of the student.
     <td></td>
   </tr>
     <tr>
-    <td>10.10 (509)</td>
+    <td>10.10 (ONLINE)</td>
     <td>
      Databases</a>
   </td>
@@ -85,7 +85,7 @@ Final grade is rounded in favor of the student.
     <td><a href="https://sqlbolt.com/lesson/introduction">Tutorial</a></td>
   </tr>
     <tr>
-    <td>15.10 (Sut, 13.00-16.00, online)</td>
+    <td>15.10 (Sut, 13.00-16.00, ONLINE)</td>
     <td>
       VK API<br>
       Your presentations
@@ -96,7 +96,7 @@ Final grade is rounded in favor of the student.
   </tr>
   </tr>
     <tr>
-    <td>17.10 (504)</td>
+    <td>17.10 (ONLINE)</td>
     <td>Your presentations</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
     <td><b>Final Project is due 14.12 23:59</b>:triumph:</td>
