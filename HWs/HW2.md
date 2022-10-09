@@ -1,4 +1,4 @@
-#### Assignment 2 -- due Oct 17th 23:59 -- please send a link to your hw2 folder on github.com to daschapopowa@gmail.com
+#### Assignment 2 -- due Oct 24th 23:59 -- please send a link to your hw2 folder on github.com to daschapopowa@gmail.com
 
 **The homework folder should contain a .db file (or a link to it) and a .ipynb file with the code and comments**
 
