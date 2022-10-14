@@ -87,7 +87,7 @@ Final grade is rounded in favor of the student.
     <tr>
     <td>15.10 (Sut, 13.00-16.00, ONLINE)</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/03.09/PPSem2.ipynb">HTML parsing</a><br>
-      VK API<br>
+      <a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_VK_API.ipynb">VK API</a><br>
       Your presentations
   </td>
     <td></td>
