@@ -97,7 +97,7 @@ Final grade is rounded in favor of the student.
   </tr>
     <tr>
     <td>17.10 (ONLINE)</td>
-    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_crawler.ipynb">HTML parsing</a><br>
+    <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/15.10/PP_crawler.ipynb">Crawler</a><br>
     Your presentations</td>
     <td><a href="https://github.com/dashapopova/Data-Analysis-Python-II/blob/main/HWs/FinalProjectGuidelines.md">Final project guidelines</a></td>
     <td><b>Final Project is due 14.12 23:59</b>:triumph:</td>
