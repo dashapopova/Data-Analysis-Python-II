@@ -32,24 +32,23 @@ a. Take the poem: https://github.com/dashapopova/Data-Analysis-2023/blob/main/we
 
 b. Change the number of the nouns and do the agreement, e.g, the original 
 
-*У лукоморья дуб зелёный;
+*У лукоморья дуб зелёный;*
 
+*Златая цепь на дубе том:*
 
-Златая цепь на дубе том:
+*И днём и ночью кот учёный*
 
-И днём и ночью кот учёный
-
-Всё ходит по цепи кругом;* 
+*Всё ходит по цепи кругом;* 
 
 should become 
 
-*У лукоморья дубы зелёные;
+*У лукоморья дубы зелёные;*
 
-Златые цепи на дубах тех:
+*Златые цепи на дубах тех:*
 
-И днями и ночами коты учёные
+*И днями и ночами коты учёные*
 
-Всё ходят по цепям кругом;*.
+*Всё ходят по цепям кругом;*.
 
 Do your best, the result won't most likely be perfect, but as long as you use morphological and syntactic parsing and comment on what problems remain and why, you will get the full grade.
 
