@@ -25,7 +25,7 @@ You will need to do the following (or something which is analogous to the follow
 5. print the total number of different clusters you've identified, e.g., 10 clusters or 40 clusters -- 0,5 point;
 6. print the list of all the clusters in the alphabetical order, ['bl', 'br',...] -- 0,5 point;
 
-#### Task 2 -- 2 points
+#### Task 2: \[2 points\]
 
 a. Take the poem: https://github.com/dashapopova/Data-Analysis-2023/blob/main/week4/Lukomorje.txt 
 (If you are not a native speaker of Russian, you can take any poem in English)
@@ -33,6 +33,7 @@ a. Take the poem: https://github.com/dashapopova/Data-Analysis-2023/blob/main/we
 b. Change the number of the nouns and do the agreement, e.g, the original 
 
 *У лукоморья дуб зелёный;
+
 
 Златая цепь на дубе том:
 
